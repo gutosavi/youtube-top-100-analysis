@@ -54,7 +54,7 @@ Mais do que números, é uma forma de enxergar **tendências globais** e entende
 
 ## Autor
 
-**Gustavo Savi**  
+**Gustavo Savi** 
 Data Analyst
 [LinkedIn](https://www.linkedin.com/in/gustavo-savi)  
 [GitHub](https://github.com/gutosavi)
