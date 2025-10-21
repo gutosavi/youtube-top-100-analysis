@@ -12,16 +12,33 @@ sns.set(style='whitegrid', rc={'figure.dpi':100})
 pd.set_option('display.max_colwidth', 200)
 
 
-df = pd.read_csv(r'd:/Python/top_youtube/data/youtube_top_100_songs_2025.csv')
+df = pd.read_csv(r'd:/Python/top_youtube/youtube-top-100-analysis/data/youtube_top_100_songs_2025.csv')
 profile = ProfileReport(df, title="Profiling Report")
 
 df.info()
 print()
 df.head()
 
-# ---
 
-df.columns
+# Verificando os dados
+
+print(df.columns)
+print('\n')
+duplicados = df.duplicated().sum()
+print(f'Valores duplicados: {duplicados}')
+
+
+# Verificando valores nulos
+
+df['tags'] = df['tags'].fillna('Sem tags')
+print(df.isnull().sum())
+print('\n')
+print('Valores nulos substituídos')
+
+
+# Describe - estatística do dataset
+
+display(df.describe(include='all').T)
 
 
 # Dominância no YouTube: Top Artistas/Canais
