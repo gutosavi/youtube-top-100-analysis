@@ -26,11 +26,11 @@ O foco foi criar **comparações e rankings** para entender os padrões por trá
 
 ## Principais descobertas
 
-- 👑 **ROSÉ** lidera o ranking com destaque em visualizações e engajamento.  
-- 🎤 Canais com menos inscritos ainda conseguem “furar a bolha” com hits virais.  
-- 🎶 O **Pop** continua soberano, mas o **Rap** mostra o maior crescimento.  
-- ⏱️ A duração média das músicas de sucesso fica entre **3 e 4 minutos**.  
-- 🤝 Colabs em si não tem um efeito geral e consistente no sentido de impulsionar o sucesso.
+- **ROSÉ** lidera o ranking com destaque em visualizações e engajamento.  
+- Canais com menos inscritos ainda conseguem “furar a bolha” com hits virais.  
+- O **Pop** continua soberano, mas o **Rap** mostra o maior crescimento.  
+- A duração média das músicas de sucesso fica entre **3 e 4 minutos**.  
+- Colabs em si não tem um efeito geral e consistente no sentido de impulsionar o sucesso.
 
 
 ## Tecnologias utilizadas
@@ -44,7 +44,7 @@ O foco foi criar **comparações e rankings** para entender os padrões por trá
 
 ## Arquivo principal
 
-📄 [`Top100musicas.ipynb`](./Top100musicas.ipynb)
+[`Top100musicas.ipynb`](./Top100musicas.ipynb)
 
 ## Conclusão
 
