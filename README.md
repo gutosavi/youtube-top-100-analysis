@@ -44,7 +44,7 @@ O foco foi criar **comparações e rankings** para entender os padrões por trá
 
 ## Arquivo principal
 
-[`Top100musicas.ipynb`](./Top100musicas.ipynb)
+[`Top100musicas.ipynb`](./top100musicas.ipynb)
 
 ## Conclusão
 
