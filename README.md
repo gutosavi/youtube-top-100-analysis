@@ -1,12 +1,12 @@
 # Quem domina o YouTube em 2025?
 
-> Explorando quem domina o YouTube em 2025 — artistas, views e tendências
+> Explorando quem domina o YouTube em 2025 (artistas, views e tendências)
 
 
 ## Sobre o projeto
 
 Em um mundo onde milhões de músicas são lançadas todos os anos, **quem realmente domina o YouTube em 2025?**  
-Neste projeto, analisei o **Top 100 vídeos musicais mais populares** da plataforma para descobrir **quais artistas, canais e gêneros** estão liderando o ranking — e o que eles têm em comum.
+Neste projeto, analisei o **Top 100 vídeos musicais mais populares** da plataforma para descobrir **quais artistas, canais e gêneros** estão liderando o ranking e o que eles têm em comum.
 
 O foco foi criar **comparações e rankings** para entender os padrões por trás do sucesso:
 - Quais canais mais aparecem no Top 100?
